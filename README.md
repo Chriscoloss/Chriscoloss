@@ -10,5 +10,5 @@ I am a student at 42Heilbronn with a focus on C and C++.
 In the long term, I can see myself becoming an expert in a specialized field.
 
 Basicly: 
-I am an open and direct person, who values both working independently ("Tunnel-Focus") and collaborating in a team, depending on the project’s needs. Fokus and Teamwork is key!
+I am an open and direct person, who values both working independently ("Tunnel-Focus") and collaborating in a team, depending on the project’s needs. Fokus and good Communication is key!
 
