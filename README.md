@@ -1,6 +1,6 @@
 <h1 align="center">"Hello World", I'm Christopher 👋</h1>
 
-<h4 align="center">I am a student at 42Heilbronn with a focus on C and C++.</h4>
+<h4 align="left">I am a student at 42Heilbronn with a focus on C and C++.</h4>
 
   - I value clean, structured code.
   - I enojoy solving problems and developing solutions.
