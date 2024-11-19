@@ -1,9 +1,10 @@
 <h1 align="center">"Hello World", I'm Christopher 👋</h1> <h4 align="left">I'm a student at 42Heilbronn with a focus on C and C++.</h4>
-- I value clean, structured code.
-- I enjoy solving problems and developing solutions.
-- I focus more on the backend area, which is strongly emphasized at 42Heilbronn.
-- I am open to new technologies and concepts and love to learn new stuff.
-- I prefer developing my own algorithms, if time and context allow, rather than using existing ones.
+
+  - I value clean, structured code.
+  - I enjoy solving problems and developing solutions.
+  - I focus more on the backend area, which is strongly emphasized at 42Heilbronn.
+  - I am open to new technologies and concepts and love to learn new stuff.
+  - I prefer developing my own algorithms, if time and context allow, rather than using existing ones.
 
 In the long term, I can see myself becoming an expert in a specialized field.
 
