@@ -11,11 +11,12 @@ In the long term, I can see myself becoming an expert in a specialized field.
 Basically: I am an open and direct person, who values both working independently ("Tunnel-Focus") and collaborating in a team, depending on the project’s needs. Focus and good communication are key!
 
 <h1 align="center">"Hallo Welt", ich bin Christopher 👋</h1> <h4 align="left">Ich bin ein Student an der 42Heilbronn mit einem Schwerpunkt auf C und C++.</h4>
-- Ich schätze sauberen und strukturierten Code.
-- Ich löse gerne Probleme und entwickle passende Lösungen.
-- Mein Fokus liegt stärker auf dem Backend-Bereich, der an der 42Heilbronn stark betont wird.
-- Ich bin offen für neue Technologien und Konzepte und lerne gerne Neues dazu.
-- Wenn Zeit und Kontext es erlauben, entwickle ich lieber eigene Algorithmen anstatt bestehende zu verwenden.
+
+  - Ich schätze sauberen und strukturierten Code.
+  - Ich löse gerne Probleme und entwickle passende Lösungen.
+  - Mein Fokus liegt stärker auf dem Backend-Bereich, der an der 42Heilbronn stark betont wird.
+  - Ich bin offen für neue Technologien und Konzepte und lerne gerne Neues dazu.
+  - Wenn Zeit und Kontext es erlauben, entwickle ich lieber eigene Algorithmen anstatt bestehende zu verwenden.
 
 Langfristig sehe ich mich als Experte in einem spezialisierten Bereich.
 
