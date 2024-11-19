@@ -1,6 +1,7 @@
 <h1 align="center">"Hello World", I'm Christopher 👋</h1>
 
-<h4 align="center">I am a student at 42Heilbronn with a focus on C and C++.
+<h4 align="center">I am a student at 42Heilbronn with a focus on C and C++.</h4>
+
   - I value clean, structured code.
   - I enojoy solving problems and developing solutions.
   - I focus more on the backend area, which is strongly emphasized at 42Heilbronn.
@@ -9,7 +10,7 @@
   
 In the long term, I can see myself becoming an expert in a specialized field.
 
-Basicly: I am an open and direct person, who values both working independently ("Tunnel-Focus") and collaborating in a team, depending on the project’s needs. Fokus and good Communication is key!</h4>
+Basicly: I am an open and direct person, who values both working independently ("Tunnel-Focus") and collaborating in a team, depending on the project’s needs. Fokus and good Communication is key!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chriscoloss&label=Profile%20views&color=0e75b6&style=flat" alt="chriscoloss" /> </p>
 
