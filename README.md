@@ -21,4 +21,10 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> </a>
 </p>
 
+<h3 align="center">Languages:</h3>
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Flag_of_Germany.svg/2560px-Flag_of_Germany.svg.png" alt="German" width="40" height="30"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_Kingdom.svg/1920px-Flag_of_the_United_Kingdom.svg.png" alt="English" width="40" height="30"/>
+</p>
+
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=chriscoloss&label=Profile%20views&color=0e75b6&style=flat" alt="chriscoloss" /> </p>
