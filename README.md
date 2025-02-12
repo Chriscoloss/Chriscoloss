@@ -23,8 +23,9 @@
 
 <h3 align="center">Languages:</h3>
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Flag_of_Germany.svg/2560px-Flag_of_Germany.svg.png" alt="German" width="40" height="30"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_Kingdom.svg/1920px-Flag_of_the_United_Kingdom.svg.png" alt="English" width="40" height="30"/>
+  <i class="fas fa-flag" style="color:#000000;"></i> <!-- Deutsch -->
+  <i class="fas fa-flag" style="color:#0033cc;"></i> <!-- Englisch -->
 </p>
+
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=chriscoloss&label=Profile%20views&color=0e75b6&style=flat" alt="chriscoloss" /> </p>
