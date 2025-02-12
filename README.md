@@ -5,13 +5,6 @@
   - I enjoy solving problems and developing solutions.
   - I am open to new technologies and concepts and love to learn new stuff.
 
-<h1 align="center">"Hallo Welt", ich bin Christopher 👋</h1>
-<h4 align="center">Ich bin ein Student an der 42Heilbronn mit einem Schwerpunkt auf C und C++.</h4>
-
-  - Ich schätze sauberen und strukturierten Code.
-  - Ich löse gerne Probleme und entwickle passende Lösungen.
-  - Ich bin offen für neue Technologien und Konzepte und lerne gerne Neues dazu.
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=chriscoloss&label=Profile%20views&color=0e75b6&style=flat" alt="chriscoloss" /> </p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
