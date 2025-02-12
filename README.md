@@ -5,7 +5,6 @@
   - I enjoy solving problems and developing solutions.
   - I am open to new technologies and concepts and love to learn new stuff.
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=chriscoloss&label=Profile%20views&color=0e75b6&style=flat" alt="chriscoloss" /> </p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/christopher-stocksieker-b38800338/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="christopher stocksieker" height="40" width="50" /></a>
@@ -21,3 +20,5 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> </a>
 </p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=chriscoloss&label=Profile%20views&color=0e75b6&style=flat" alt="chriscoloss" /> </p>
