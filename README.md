@@ -17,8 +17,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/christopher-stocksieker-b38800338/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="christopher stocksieker" height="40" width="50" /></a>
   <a href="https://instagram.com/chrisco_h" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chrisco_h" height="40" width="50" /></a>
-  <a href="https://www.stepstone.de" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/StepStone_logo_2020.svg/1024px-StepStone_logo_2020.svg.png" alt="StepStone" height="40" width="50" /></a>
-  <a href="https://www.instaffo.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Instaffo_logo.png" alt="Instaffo" height="40" width="50" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
@@ -30,4 +28,3 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> </a>
 </p>
-
